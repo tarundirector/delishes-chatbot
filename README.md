@@ -147,4 +147,5 @@ Deploy to Render or any Docker-compatible hosting. The LangGraph server exposes 
 ![Delishes Chatbot Demo 1](https://github.com/tarundirector/delishes-chatbot/blob/main/docs/delishes_demo_1.jpg?raw=true)
 ![Delishes Chatbot Demo 2](https://github.com/tarundirector/delishes-chatbot/blob/main/docs/delishes_demo_2.jpg?raw=true)
 ![Delishes Chatbot Demo 3](https://github.com/tarundirector/delishes-chatbot/blob/main/docs/delishes_demo_3.jpg?raw=true)
+![Delishes Chatbot Demo 4](https://github.com/tarundirector/delishes-chatbot/blob/main/docs/delishes_demo_4.jpg?raw=true)
 
